@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "",
+  "result": [
+    {
+      "Uuid": null,
+      "OrderUuid": "12345t3n-nnnn-3333-2222-c11111111112",
+      "Exchange": "BTC-ETH",
+      "OrderType": "LIMIT_SELL",
+      "Quantity": 20.00000000,
+      "QuantityRemaining": 20.00000000,
+      "Limit": 0.00050000,
+      "CommissionPaid": 0.00000000,
+      "Price": 0.00000000,
+      "PricePerUnit": null,
+      "Opened": "2017-06-03T22:15:26.743",
+      "Closed": null,
+      "CancelInitiated": false,
+      "ImmediateOrCancel": false,
+      "IsConditional": true,
+      "Condition": "GREATER_THAN",
+      "ConditionTarget": 0.00050000
+    }
+  ]
+}
